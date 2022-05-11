@@ -1,6 +1,6 @@
 ### Hey! I'm Veronica Alves 🐼, and I live in Brazil !!
 
-- 👩‍💻 I am currently studying programming at Trybe school
+- 👩‍💻 I am currently studying programming at Trybe school !
 - 📧 Contact-me by email: veagalves@gmail.com
 
 <div align="center">
