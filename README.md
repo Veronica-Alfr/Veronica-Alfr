@@ -1,8 +1,8 @@
-### Hey! I'm Veronica Alves 🐼, and I live in Brazil !!
+### Hey! I'm Veronica Alves, and I live in Brazil !!
 
 - 🎓 Formed by the Trybe school in Web Development
-- 👩‍💻 I am currently studying programming by myself !
-- 📧 Contact-me by email: veagalves@gmail.com
+- 👩‍💻 I am currently working in Mupi Systems!
+- 📧 For work or learning contact me by email: veagalves@gmail.com
 
 <div align="center">
   <a href="https://github.com/Veronica-Alfr">
