@@ -1,7 +1,6 @@
 ### Hey! I'm Veronica Alves, and I live in Brazil !!
 
 - 🎓 Formed by the Trybe school in Web Development
-- 👩‍💻 I am currently working in Mupi Systems!
 - 📧 For work or learning contact me by email: veagalves@gmail.com
 
 <div align="center">
@@ -12,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Veronica-Alfr&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-  <h4>My stacks in which I have work experience: JS/TS, Python, React, Nest, Next, Django, MongoDB, PostgreSQL, Docker, Polib, PyTest. </h4>
+  <h4>My stacks in which I have work experience 👩‍💻: JS/TS, Python, React, Nest, Next, Django, MongoDB, PostgreSQL, Docker, Polib, PyTest. </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Veronica-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Veronica-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
