@@ -12,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Veronica-Alfr&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
-  <h3>Minhas stacks ao qual tenho experiência de trabalho: JS/TS, Python, React, Nest, Next, Django, MongoDB, PostgreSQL, Docker, Polib, PyTest. </h3>
+  <h4>Minhas stacks ao qual tenho experiência de trabalho: JS/TS, Python, React, Nest, Next, Django, MongoDB, PostgreSQL, Docker, Polib, PyTest. </h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Veronica-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Veronica-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
